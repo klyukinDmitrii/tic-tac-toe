@@ -1,0 +1,14 @@
+info {
+	padding: 5px 50px;
+	border: 2px solid rgb(10, 9, 9);
+	margin-bottom: 10px;
+	background: linear-gradient(
+		90deg,
+		rgba(36, 0, 35, 1) 0%,
+		rgba(222, 73, 212, 0.8449973739495799) 1%,
+		rgba(0, 212, 255, 1) 100%
+	);
+}
+.info_text {
+	font-weight: 700;
+}
